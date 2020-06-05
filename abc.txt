@@ -1,1 +1,14 @@
 abc123
+mooc.s.ecust.edu.cn/work/selectWorkQuestionYiPiYue?courseId=441650000001736&classId=441650000003475&workId=749&workAnswerId=292&isdisplaytable=2&mooc=1&ut=s&evaluation=0&enc=924a1274bf3dcfbf660a89c1c702c441&workSystem=0&cpi=12012
+
+
+mooc.s.ecust.edu.cn/work/selectWorkQuestionYiPiYue?courseId=441650000001993&classId=441650000003820&workId=1232&workAnswerId=409&isdisplaytable=2&mooc=1&ut=s&evaluation=0&enc=2387ee1d135348ac127ff3f4e9954425&workSystem=0&cpi=12012
+
+
+
+mooc.s.ecust.edu.cn/work/doHomeWorkNew?courseId=441650000001778&classId=441650000003523&workId=1435&workAnswerId=13&isdisplaytable=2&mooc=1&enc=548d7ada7dacf8a093b3cd9d3e5f0b4e&workSystem=0&cpi=12012&standardEnc=ee102586b34aa1d31b9552bd92c5ab4d
+
+
+
+mooc.s.ecust.edu.cn/work/selectWorkQuestionYiPiYue?
+courseId=441650000001778&classId=441650000003523&workId=1435&workAnswerId=13&isdisplaytable=2&mooc=1&ut=s&evaluation=0&enc=548d7ada7dacf8a093b3cd9d3e5f0b4e&workSystem=0&cpi=12012
