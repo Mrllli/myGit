@@ -1,14 +1,126 @@
-abc123
-mooc.s.ecust.edu.cn/work/selectWorkQuestionYiPiYue?courseId=441650000001736&classId=441650000003475&workId=749&workAnswerId=292&isdisplaytable=2&mooc=1&ut=s&evaluation=0&enc=924a1274bf3dcfbf660a89c1c702c441&workSystem=0&cpi=12012
+
+1、tcp为什么是可靠的 
+2、哪些情况可以用udp 
+3、跑程序时候发现服务器系统内存占用100%怎么办 
+4、HashMap、ConcurrentHashMap。几乎把里面的所有函数都讲了一遍 
+5、volatile 
+6、jvm数据区域 
+7、新生代大小参数是啥
+8、堆的分类新生代老年代 
+9、redis网络协议，redis为什么单进程，为什么redis的decsby原子性 
+10、spring各种原理。xml怎么解析，aop原理 
+11、写sql 
+12、java怎么与数据库交互   
+13、数据库中间件了解吗
 
 
-mooc.s.ecust.edu.cn/work/selectWorkQuestionYiPiYue?courseId=441650000001993&classId=441650000003820&workId=1232&workAnswerId=409&isdisplaytable=2&mooc=1&ut=s&evaluation=0&enc=2387ee1d135348ac127ff3f4e9954425&workSystem=0&cpi=12012
+1、介绍项目  
+2、RocketMQ事务性原理是什么    
+3、RocketMQ的内部结构是什么，看过RocketMQ的源码吗（没有，卑微.jpg）    
+4、RocketMQ是2PC还是3PC的    
+5、数据库索引B+树    
+6、Http状态码302、204、500、504    
+7、线程池的拒绝策略有哪些    
+8、JDK8的新特性有哪些 
 
 
 
-mooc.s.ecust.edu.cn/work/doHomeWorkNew?courseId=441650000001778&classId=441650000003523&workId=1435&workAnswerId=13&isdisplaytable=2&mooc=1&enc=548d7ada7dacf8a093b3cd9d3e5f0b4e&workSystem=0&cpi=12012&standardEnc=ee102586b34aa1d31b9552bd92c5ab4d
+
+3、springcloud源码看过吗？（没有，卑微.jpg，俺说俺知道各组件原理，但是面试官只问源码）
+4、四次挥手 
+5、进程通信方式 
+6、进程通信中的管道原理 
+7、linux的io模型 
+8、linux的shell脚本 
+9、RocketMQ事务性原理 
+10、redis数据结构有哪些，底层结构分别是怎么实现的→源码刨析 
+11、一直聊项目     
+12、两个超大的文件，里面各装有上百万个数，还有无序的，数字的大小范围是0-500w左右。如何求两个文件中的重复的数据（这个俺不会，没答上来）
 
 
 
-mooc.s.ecust.edu.cn/work/selectWorkQuestionYiPiYue?
-courseId=441650000001778&classId=441650000003523&workId=1435&workAnswerId=13&isdisplaytable=2&mooc=1&ut=s&evaluation=0&enc=548d7ada7dacf8a093b3cd9d3e5f0b4e&workSystem=0&cpi=12012
+1、自我介绍 
+2、问项目相关 
+3、为什么高并发使用redis不用mysql 
+4、redis的数据结构 
+5、zset 
+6、redolog、undolog、binlog 
+7、HashMap 
+8、TCP四次挥手的时候close-wait过多怎么办 
+9、四次挥手的内容 
+10、进程和线程的区别
+
+
+1.  谈谈对阻塞与非阻塞、同步与异步的理解；    
+2. I/O多路复用select, poll, epoll之间的区别，各自支持的最大描述符上限以及原因；    
+3. 进行一次IO操作大致所需要的流程；    
+4. 进程和线程之间的区别，多进程和多线程各自使用情况，进程和线程之间通信方式；    
+5. 内存分配的事情？当时回答不太熟就没接着问了    
+6. TCP四次挥手过程以及所处状态，为什么还需要有time_wait；    
+7. 常见的排序算法有哪些，哪些是稳定的以及不稳定的；    
+8. 网络5层模型，每一层有哪些协议以及每一层的作用；    
+9. 代码题：有序数组旋转后找最小值所在位置、给出一个有环的链表输出环的长度
+
+
+
+hashmap的扩容机制，为什么要俩倍扩容，还有其他问题记不清了
+Java垃圾回收机制
+多线程相关的几个关键字
+抽象类和接口的区别
+synchronized修饰代码块，方法，静态代码块的区别（还有这个单词的拼写，哈哈）
+
+还有简单的计算机网络，访问一个页面发生了什么，http和https的区别，get和post的区别，证书
+
+简单的操作系统，进程和线程的区别
+
+
+
+自我介绍：讲了下自己的项目经历、实习经历  问了下技术栈  HashMap 和 ConcurrentHashMap 的区别？（不会，当时太菜了）  
+线程池（当时就说了怎么用，连底层结构都答不上来，太丢人了）  
+数据库的锁（不会）  
+数据库的三范式（不会，还瞎扯了一堆）
+
+线程和进程的区别
+缓存（简单说了下浏览器缓存的作用）
+
+作者：在所不辞
+链接：https://www.nowcoder.com/discuss/385601?channel=666&source_id=discuss_terminal_discuss_sim
+来源：牛客网
+
+期间问了项目的问题：缓存一致性问题、MySQL乐观锁；  问之前实习的一些问题，在实习的时候学到了什么。  
+Redis 的过期策略、缓存雪崩、惰性删除  MySQL索引、b+树，为什么不用哈希map来存储？  最左前缀原则
+
+
+作者：在所不辞
+链接：https://www.nowcoder.com/discuss/385601?channel=666&source_id=discuss_terminal_discuss_sim
+来源：牛客网
+
+JAVA的锁、乐观锁悲观锁（视频卡出翔，面试官基本听不到我说啥，然后说我们来先做题吧，我？？）  编程题1：最大岛问题（我想了个分治，思路不对，直接爆炸，面试官还是不错的，给我换了道题）  编程题2：股票利润1（还要求写测试用例，要求跑通）  编程题3：股票利润2（可以买卖多次）(这两题都秒了，面试前一晚正好想刷一刷dp的题，就刷了这两题，所以说大家想到什么一定要去学！！！)  TCP的四次挥手  HTTPS
+
+
+自我介绍、怼项目、Redis缓存
+LRU在操作系统怎么实现？
+HashMap扩容底层实现
+Git 底层实现；如何解决冲突？
+设计题：关注系统怎么设计？
+
+
+讲一下websocket？和http有什么区别？  讲到了建立连接，说说TCP三次握手。  第三次握手失败会怎样？  为什么需要三次？两次可以吗？  
+提到了SYN洪泛攻击，讲一下  
+了解HTTP/2.0吗？  了解HTTPS吗？  
+讲一下nginx  谈到了跨域，讲一下跨域  谈到了CORS，我们一般怎么解决？  
+nginx在项目中怎样部署负载均衡呢？  
+32机器，2亿个整数中找不重复数字？  
+快速排序的原理、时间复杂度、空间复杂度
+
+
+TCP和UDP的区别？  
+UDP不可靠的话，为什么可以用来发送文件？  
+TCP怎么做流量控制？  
+发送窗口、接收窗口、拥塞窗口三者的关系  拥塞窗口的变化规律  HTTPS的S是什么意思？  
+HTTPS的作用是什么？  
+为什么要用fiddler？  
+fiddler能看到HTTPS中的内容吗？  
+什么是时间换空间？有例子吗？  
+有没有解决过复杂的问题？  
+什么是乐观锁？
